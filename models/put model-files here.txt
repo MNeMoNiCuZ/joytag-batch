@@ -1,0 +1,2 @@
+Download the config.json, model.safetensors and top_tags.txt from here:
+https://huggingface.co/fancyfeast/joytag/tree/main
