@@ -1,6 +1,12 @@
 # JoyTag Batch
 This is an inference script for the joytag tagging utility. Simply put images in the input folder and it will tag them for you.
 
+Setup:
+1. Clone this git repo
+2. Clone the Huggingface models into the models directory
+3. Install [pytorch with Cuda](https://pytorch.org/) (cu121 works)
+4. Run `py inference.py`
+
 # JoyTag
 
 JoyTag is a state of the art AI vision model for tagging images, with a focus on sex positivity and inclusivity. It uses the Danbooru tagging schema, but works across a wide range of images, from hand drawn to photographic.
