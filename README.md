@@ -5,7 +5,7 @@ Setup:
 1. Clone this git repo
 2. Clone the Huggingface models into the models directory
 3. Install [pytorch with Cuda](https://pytorch.org/) (cu121 works)
-4. Run `py inference.py`
+4. Run `py batch.py`
 
 # JoyTag
 
